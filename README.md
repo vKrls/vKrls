@@ -1,4 +1,10 @@
-## Hola
+## wa 👻 soy **vKrls**.
+Estudiante de ingeniería de software en la **Universidad Nacional de Ingeniería**.
+## 🎮 Mis cuentas
+[![Steam](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/steam/steam-original.svg)](https://steamcommunity.com/id/vKrls)
+[![Discord](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg)](https://discordapp.com/users/vkrls)
+[![X](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg)](https://twitter.com/vKrlss)
+
 <!--
 **vKrls/vKrls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
