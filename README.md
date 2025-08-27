@@ -7,13 +7,13 @@
 ## 🌐 Mis redes
 
 <p align="left">
-  <a href="https://steamcommunity.com/id/TU_USUARIO" target="_blank">
+  <a href="https://steamcommunity.com/id/vKrls" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/steam.svg" alt="Steam" width="40"/>
   </a>
-  <a href="https://twitter.com/TU_USUARIO" target="_blank">
+  <a href="https://twitter.com/vKrlss" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40"/>
   </a>
-  <a href="https://discordapp.com/users/TU_ID" target="_blank">
+  <a href="https://discordapp.com/users/vKrls" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" alt="Discord" width="40"/>
   </a>
 </p>
