@@ -18,11 +18,13 @@
   </a>
 </p>
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=vKrls&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+## 📊 Estadísticas
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=vKrls&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vKrls&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vKrls&layout=compact&theme=tokyonight" height="165" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vKrls&theme=tokyonight&hide_border=false)
 
 
 <!--
