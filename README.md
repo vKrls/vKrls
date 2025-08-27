@@ -1,7 +1,7 @@
 ## 👻 Hola, soy **vKrls**
 <span style="display: inline-flex; align-items: center;">
   Estudiante de ingeniería de software en la Universidad Nacional de Ingeniería.
-  <img src="uni-logo.png" alt="UNI" width="18" style="margin-left:4px;"/>
+  <img src="uni-logo.png" alt="UNI" width="25" style="margin-left:4px;"/>
 </span>
 
 ## 🌐 Mis redes
