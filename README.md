@@ -1,9 +1,18 @@
-## wa 👻 soy **vKrls**.
+## wa 👻 soy **vKrls**
 Estudiante de ingeniería de software en la **Universidad Nacional de Ingeniería**.
-## 🎮 Mis cuentas
-[![Steam](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/steam/steam-original.svg)](https://steamcommunity.com/id/vKrls)
-[![Discord](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg)](https://discordapp.com/users/vkrls)
-[![X](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg)](https://twitter.com/vKrlss)
+## 🌐 Mis redes
+
+<p align="left">
+  <a href="https://steamcommunity.com/id/TU_USUARIO" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/steam/steam-original.svg" alt="Steam" width="40"/>
+  </a>
+  <a href="https://twitter.com/TU_USUARIO" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40"/>
+  </a>
+  <a href="https://discordapp.com/users/TU_ID" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" alt="Discord" width="40"/>
+  </a>
+</p>
 
 <!--
 **vKrls/vKrls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
