@@ -1,10 +1,11 @@
 ## wa 👻 soy **vKrls**
 Estudiante de ingeniería de software en la **Universidad Nacional de Ingeniería**.
+
 ## 🌐 Mis redes
 
 <p align="left">
   <a href="https://steamcommunity.com/id/TU_USUARIO" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/steam/steam-original.svg" alt="Steam" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/steam.svg" alt="Steam" width="40"/>
   </a>
   <a href="https://twitter.com/TU_USUARIO" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40"/>
