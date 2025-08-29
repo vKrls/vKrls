@@ -1,10 +1,11 @@
 ## 👻 Hola, soy **vKrls**
 <p>
-Estudiante de ingeniería de software en la Universidad Nacional de Ingeniería.  
+Estudiante de ingeniería de software en la Universidad Nacional de Ingeniería.    
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Uni-logo_transparente_granate.png" align="absmiddle" width="50">
 <p>
-
-![](https://github.com/vKrls/vKrls/blob/main/Dog%20Thank%20You%20GIF%20by%20MOODMAN.gif)
+<p> 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVwZGtxZDZsZ2g3YTg4aDFyMXF3djQ3OG9temhtbGs4a3Q4aXFvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Dqaeosmm7K5yV8FWb/giphy.gif" align="absmiddle" width="100">
+<p>
 
 ## 🌐 Mis redes
 
