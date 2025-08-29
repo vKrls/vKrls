@@ -1,5 +1,9 @@
 ## 👻 Hola, soy **vKrls**
 Estudiante de ingeniería de software en la Universidad Nacional de Ingeniería.
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXl5eDg3OGR6bHRnM2d4MW04aHBkbmVjZ3FqdjhqbXUzOXpnNWwwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uWlpPGquhGZNFzY90z/giphy.gif)
+
+
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Uni-logo_transparente_granate.png"
      alt="UNI" height="30" style="vertical-align:-15px;"/>
 
