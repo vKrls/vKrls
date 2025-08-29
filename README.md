@@ -2,7 +2,7 @@
 <p>
 Estudiante de ingeniería de software en la Universidad Nacional de Ingeniería.    
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Uni-logo_transparente_granate.png" align="absmiddle" width="50">
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVwZGtxZDZsZ2g3YTg4aDFyMXF3djQ3OG9temhtbGs4a3Q4aXFvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Dqaeosmm7K5yV8FWb/giphy.gif" align="absmiddle" width="100">
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVwZGtxZDZsZ2g3YTg4aDFyMXF3djQ3OG9temhtbGs4a3Q4aXFvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Dqaeosmm7K5yV8FWb/giphy.gif" width="70">
 <p>
 
 ## 🌐 Mis redes
