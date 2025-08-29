@@ -22,7 +22,7 @@ Estudiante de ingeniería de software en la Universidad Nacional de Ingeniería.
 ## 📊 Estadísticas
 
 <p align="middle">
-  <img src="https://github-readme-stats.vercel.app/api?username=vKrls&show_icons=true&title_color=00000000&icon_color=00000000&text_color=00000000&bg_color=70,000000,800000&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vKrls&show_icons=true&title_color=00000000&icon_color=00000000&text_color=00000000&bg_color=60,000000,800000&include_all_commits=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vKrls&layout=compact&theme=tokyonight" height="165" />
 </p>
 
