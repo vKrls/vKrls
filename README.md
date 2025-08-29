@@ -1,7 +1,7 @@
 ## 👻 Hola, soy **vKrls**
 Estudiante de ingeniería de software en la Universidad Nacional de Ingeniería.
 
-![UNI](https://commons.wikimedia.org/wiki/Special:FilePath/Uni-logo_transparente_granate.png)
+![img_4286a-350x233](https://commons.wikimedia.org/wiki/Special:FilePath/Uni-logo_transparente_granate.png)
 
 ![](https://github.com/vKrls/vKrls/blob/main/Dog%20Thank%20You%20GIF%20by%20MOODMAN.gif)
 
