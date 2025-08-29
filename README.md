@@ -9,13 +9,13 @@ Estudiante de ingeniería de software en la Universidad Nacional de Ingeniería.
 
 <p align="right">
   <a href="https://steamcommunity.com/id/vKrIs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/steam.svg" alt="Steam" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1200px-Steam_icon_logo.svg.png" alt="Steam" width="40"/>
   </a>
   <a href="https://x.com/vKrlss" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/016/716/467/non_2x/twitter-icon-free-png.png" alt="X (Twitter)" width="40"/>
   </a>
   <a href="https://discord.gg/JbtE8vHn" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" alt="Discord" width="40"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/023/986/612/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png" alt="Discord" width="40"/>
   </a>
 </p>
 
