@@ -7,9 +7,9 @@ Estudiante de ingeniería de software en la Universidad Nacional de Ingeniería.
 
 ## 🌐 Mis redes
 
-<p align="right">
+<p align="left">
   <a href="https://steamcommunity.com/id/vKrIs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/steam.svg" alt="Steam" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1200px-Steam_icon_logo.svg.png" alt="Steam" width="40"/>
   </a>
   <a href="https://x.com/vKrlss" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40"/>
