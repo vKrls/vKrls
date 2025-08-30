@@ -3,7 +3,7 @@
 <p>
 <p>
 Estudiante de ingeniería de software en la Universidad Nacional de Ingeniería.      
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Uni-logo_transparente_granate.png" align="absmiddle" width="40">
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Uni-logo_transparente_granate.png" style="width: 60px; height: 60px; margin-left: 50px; margin-top: 25px;">
 <p>
 
 ## 🌐 Mis redes
